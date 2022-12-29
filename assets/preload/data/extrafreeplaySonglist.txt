@@ -1,0 +1,6 @@
+conflict:z11:2
+intervention:ace:2
+last-stand:ace:2
+sipped:luna-duo:0
+wavedashing:fox:0
+danger-but-ace:ace:2
